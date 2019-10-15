@@ -2,13 +2,13 @@
 
 Written by Kris Lafrance
 
-Uses HTML5, Javascript, React, Youtube Data API
+Uses HTML5, Javascript, React, Semantic UI, Youtube Data API
 
 # Features
 
 - utilizes reacts components to make a youtube lite app
 
-![proj-screenshot](/img/example.jpg)
+![proj-screenshot](/public/example.jpg)
 
 # Run
 
